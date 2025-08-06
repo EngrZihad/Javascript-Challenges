@@ -28,7 +28,7 @@ Write a function that returns the sum of all multiples of **3 or 5** below a giv
 sumOfMultiples(10); 
 // Output: 23
 // Explanation: 3 + 5 + 6 + 9 = 23  
-
+```
 ---
 ## 👨‍💻 Author
 
