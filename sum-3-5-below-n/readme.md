@@ -28,3 +28,13 @@ Write a function that returns the sum of all multiples of **3 or 5** below a giv
 sumOfMultiples(10); 
 // Output: 23
 // Explanation: 3 + 5 + 6 + 9 = 23  
+
+## 👨‍💻 Author
+
+This project was created and maintained by:
+
+**Md. Zihad Mia**  
+💼 Full-Stack Web Developer  
+🌐 GitHub: [@EngrZihad](https://github.com/EngrZihad)  
+📫 Email: webengr.zihad@gmail.com  
+
