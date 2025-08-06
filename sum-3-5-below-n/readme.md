@@ -29,6 +29,7 @@ sumOfMultiples(10);
 // Output: 23
 // Explanation: 3 + 5 + 6 + 9 = 23  
 
+---
 ## 👨‍💻 Author
 
 This project was created and maintained by:
@@ -37,4 +38,4 @@ This project was created and maintained by:
 💼 Full-Stack Web Developer  
 🌐 GitHub: [@EngrZihad](https://github.com/EngrZihad)  
 📫 Email: webengr.zihad@gmail.com  
-
+---
