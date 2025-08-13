@@ -17,22 +17,6 @@ The letter **`y`** is **not** considered a vowel in this implementation.
 
 | 🟢 **1** |
 
-
-
-## 💻 Example
-
-```javascript
-function removeVowels(str) {
-  const vowels = ['a', 'e', 'i', 'o', 'u'];
-  return str
-    .split('')
-    .filter(char => !vowels.includes(char.toLowerCase()))
-    .join('');
-}
-
-console.log(removeVowels("beautiful day")); 
-// Output: "btfl dy"
-
 ## 💻 Usages
 
 # Clone the repository
@@ -57,3 +41,20 @@ node index.js
 💻 Full-Stack Web Developer  
 🌐 [GitHub](https://github.com/EngrZihad)  
 📧 webEngr.zihad@gmail.com
+
+
+## 💻 Example
+
+```javascript
+function removeVowels(str) {
+  const vowels = ['a', 'e', 'i', 'o', 'u'];
+  return str
+    .split('')
+    .filter(char => !vowels.includes(char.toLowerCase()))
+    .join('');
+}
+
+console.log(removeVowels("beautiful day")); 
+// Output: "btfl dy"
+
+
